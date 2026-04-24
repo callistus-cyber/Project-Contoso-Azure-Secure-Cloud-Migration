@@ -1267,7 +1267,7 @@ Two primary workbooks:
 }
 ```
 
-### 8.4 Sample Incident Timeline — "Operation Contoso Crack"
+### 8.4 Incident Timeline — "Operation Contoso Crack"
 
 | Time (UTC) | Event | Actor | Detection / Response |
 |---|---|---|---|
@@ -1341,13 +1341,11 @@ Legend: S=Spoofing · T=Tampering · R=Repudiation · I=Info Disclosure · D=DoS
 
 ## 10. Consulting Deliverables
 
-### 10.1 Executive Summary (Non-Technical)
-
-> *Suitable for inclusion in Board pack.*
+### 10.1 Executive Summary
 
 Contoso's Azure migration was architected and deployed to an Enterprise Landing Zone standard aligned with the Microsoft Cloud Adoption Framework and Zero Trust principles. In an eight-week engagement we delivered: (1) a hardened, automated cloud environment where every production resource is private by default, identity-aware, and continuously logged; (2) a vulnerability management capability that finds, prioritizes, and drives remediation of real weaknesses within clear SLAs; (3) a 24x7 detection and response capability that, during a controlled adversary exercise, detected an intrusion in under two minutes and automatically contained it in 32 seconds with zero data loss. Residual risks are tracked in a quarterly-reviewed risk register, and the next 90 days should focus on extending phishing-resistant MFA to all employees, expanding Tenable coverage to legacy on-premises systems during the migration tail, and advancing Zero Trust from the "Initial" to the "Advanced" stage per the CISA model.
 
-### 10.2 Vulnerability Assessment Report (Template)
+### 10.2 Vulnerability Assessment Report
 
 ```
 VULNERABILITY ASSESSMENT REPORT
@@ -1409,7 +1407,7 @@ Delivered in `/sentinel/` folder:
 
 ---
 
-## 11. Bonus: DevSecOps, Container Security, Zero Trust Roadmap
+## 11. DevSecOps, Container Security, Zero Trust Roadmap
 
 ### 11.1 DevSecOps Pipeline (Shift-Left)
 
