@@ -4,7 +4,7 @@
 
 > **How to use this guide:** Read one phase, do it, verify the checkpoint at the bottom of the phase, then move on. Every command has (a) a plain-English explanation of what it does and (b) what successful output looks like. If something fails, check the **"If it breaks"** block at the end of each phase.
 
-> **Expected total time:** ~12–16 hours of hands-on work spread over 1–2 weeks.
+> **Expected total time:** 12–16 hours of hands-on work spread over 1–2 weeks.
 > **Expected Azure cost:** See Phase 0. Budget **~$250–$450 USD** if you leave everything running for a month; **under $30** if you destroy everything after each session (recommended for a lab).
 
 ---
