@@ -169,7 +169,7 @@ Then install two helpful extensions (open VS Code → Extensions sidebar → sea
 
 **What it is:** A Unix tool that parses JSON output from `az` commands. Saves you from eyeballing 500-line JSON blobs.
 
-**Windows:** `winget install -e --id stedolan.jq`
+**Windows:** `winget install jqlang.jq`
 **macOS:** `brew install jq`
 **Linux:** `sudo apt install jq`
 
